@@ -14,14 +14,14 @@
 - 结交到和自己兴趣相同的伙伴，一同进步
 - 知识的积累与沉淀，对自己有一个正向反馈的激励作用
 
-## 翻译主题(Translation Topics)
+## 翻译主题（Translation Topics）
 
 ### 人工智能（Artificial Intelligence）
 
 ### 机器学习（Machine Learning）
 
 ### 深度学习（Deep Learning）
-- [了解ReLU：5分钟内最受欢迎的激活函数！]()
+- [了解ReLU：5分钟内最受欢迎的激活函数！](https://github.com/Hirotransfer/whaleTranslation/blob/main/Deep%20Learning/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%AD%E6%9C%80%E5%8F%97%E6%AC%A2%E8%BF%8E%E7%9A%84%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md)
 
 ### 强化学习（Reninforcement Learning）
 
