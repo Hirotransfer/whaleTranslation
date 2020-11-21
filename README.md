@@ -40,6 +40,8 @@
 
 ### 数据科学（Data Science）
 - [在数据科学领域获得成功的3个做和3个不做]()
+- [主成分分析的一站式服务](https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c)
+- [探索性数据分析的详细步骤指南](https://blog.datatron.com/an-extensive-step-by-step-guide-to-exploratory-data-analysis/)
 
 ### 大数据（Big Data）
 - [大数据的5个V隐藏着一个陷阱]()
