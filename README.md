@@ -22,11 +22,11 @@
 
 ### 机器学习（Machine Learning）
 - [机器学习速成课程](https://github.com/Hirotransfer/whaleTranslation/blob/main/Machine%20Learning/Machine%20Learning%20Crash%20Course.md)
-- [2021年你应该了解的所有机器学习算法]()
+- [2021年你应该了解的所有机器学习算法](https://towardsdatascience.com/all-machine-learning-algorithms-you-should-know-in-2021-2e357dd494c7)
 
 
 ### 深度学习（Deep Learning）
-- [了解ReLU：5分钟内最受欢迎的激活函数！](https://github.com/Hirotransfer/whaleTranslation/blob/main/Deep%20Learning/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%AD%E6%9C%80%E5%8F%97%E6%AC%A2%E8%BF%8E%E7%9A%84%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md)
+- [了解ReLU：深度学习中最受欢迎的激活函数！](https://github.com/Hirotransfer/whaleTranslation/blob/main/Deep%20Learning/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%AD%E6%9C%80%E5%8F%97%E6%AC%A2%E8%BF%8E%E7%9A%84%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md)
 
 
 ### 强化学习（Reninforcement Learning）
