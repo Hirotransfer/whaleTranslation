@@ -20,6 +20,7 @@
 - [顶级科技公司如何在工作场所中使用机器学习和人工智能？](https://blog.datatron.com/how-top-tech-firms-use-machine-learning-and-ai-in-their-workplace/)
 - [鉴别人工智能的真实案例](https://blog.datatron.com/ai-discrimination/)
 - [足球分析遇见人工智能]()
+- [人工智能本科4年完整的课程方案](https://www.blog.confetti.ai/post/a-complete-4-year-course-plan-for-an-artificial-intelligence-undergraduate-degree)
 
 
 ### 机器学习（Machine Learning）
@@ -27,6 +28,9 @@
 - [机器学习模型的版本控制](https://blog.datatron.com/version-control-for-ml-models-with-code-algorithms-and-training-data-sets/)
 - [2021年你应该了解的所有机器学习算法](https://towardsdatascience.com/all-machine-learning-algorithms-you-should-know-in-2021-2e357dd494c7)
 - [6分钟内解释所有机器学习模型](https://towardsdatascience.com/all-machine-learning-models-explained-in-6-minutes-9fe30ff6776a)
+- [学习机器学习](https://www.reddit.com/r/learnmachinelearning/?f=flair_name%3A%22Tutorial%22)
+- [掌握机器学习面试技巧](https://www.confetti.ai/#)
+- [每个机器学习工程师应该知道的7项技术](https://www.blog.confetti.ai/post/7-technologies-every-machine-learning-engineer-should-know)
 
 
 ### 深度学习（Deep Learning）
@@ -44,6 +48,7 @@
 - [探索性数据分析的详细步骤指南](https://blog.datatron.com/an-extensive-step-by-step-guide-to-exploratory-data-analysis/)
 - [假设检验欧洲足球数据]()
 - [将Xs和Ys(大部分是Ys)转化为足球阵型]()
+- [50家机器学习和数据科学公司正在给行业带来变革](https://www.blog.confetti.ai/post/50-machine-learning-and-data-science-companies)
 
 ### 大数据（Big Data）
 - [大数据的5个V隐藏着一个陷阱]()
