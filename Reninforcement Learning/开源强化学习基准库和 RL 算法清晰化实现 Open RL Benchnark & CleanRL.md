@@ -1,4 +1,4 @@
-# 开源强化学习基准库 Open RL Benchnark @ 0.3.0
+# 开源强化学习基准库和 RL 算法清晰化实现 Open RL Benchnark & CleanRL
 
 ## Open RL Benchnark @ 0.3.0 发布
 
