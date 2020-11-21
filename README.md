@@ -17,11 +17,12 @@
 ## 翻译主题（Translation Topics）
 
 ### 人工智能（Artificial Intelligence）
-- [Soccer Analytics Meets Artificial Intelligence]()
+- [足球分析遇见人工智能]()
 
 
 ### 机器学习（Machine Learning）
 - [机器学习速成课程](https://github.com/Hirotransfer/whaleTranslation/blob/main/Machine%20Learning/Machine%20Learning%20Crash%20Course.md)
+- [2021年你应该了解的所有机器学习算法]()
 
 
 ### 深度学习（Deep Learning）
@@ -33,9 +34,8 @@
 
 
 ### 数据科学（Data Science）
-- [The 5 Vs of Big Data Hide a Trap]()
-
+- [在数据科学领域获得成功的3个做和3个不做]()
 
 ### 大数据（Big Data）
-- [3 Do’s And 3 Don’ts To Become Successful In Data Science]()
+- [大数据的5个V隐藏着一个陷阱]()
 
