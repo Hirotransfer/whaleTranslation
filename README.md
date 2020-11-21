@@ -18,15 +18,21 @@
 
 ### 人工智能（Artificial Intelligence）
 
+
 ### 机器学习（Machine Learning）
+- [机器学习速成课程](https://github.com/Hirotransfer/whaleTranslation/blob/main/Machine%20Learning/Machine%20Learning%20Crash%20Course.md)
+
 
 ### 深度学习（Deep Learning）
 - [了解ReLU：5分钟内最受欢迎的激活函数！](https://github.com/Hirotransfer/whaleTranslation/blob/main/Deep%20Learning/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%AD%E6%9C%80%E5%8F%97%E6%AC%A2%E8%BF%8E%E7%9A%84%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md)
 
+
 ### 强化学习（Reninforcement Learning）
+- [开源强化学习基准库 Open RL Benchnark & CleanRL](https://github.com/Hirotransfer/whaleTranslation/blob/main/Reninforcement%20Learning/%E5%BC%80%E6%BA%90%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E5%9F%BA%E5%87%86%E5%BA%93%E5%92%8C%20RL%20%E7%AE%97%E6%B3%95%E6%B8%85%E6%99%B0%E5%8C%96%E5%AE%9E%E7%8E%B0%20Open%20RL%20Benchnark%20&%20CleanRL.md)
 
 
 ### 数据科学（Data Science）
 
 
 ### 大数据（Big Data）
+
