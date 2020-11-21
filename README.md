@@ -1,6 +1,6 @@
 # whaleTranslation （Translation for Good）
 
-> 翻译向善。翻译工作是一个信息传递和学习共享的过程！以模块化为主，分系列专栏，打磨内容质量，形成开源教程！！通过主题文章的翻译分享，让学习者及时获得各自所需的知识，从而激励学习者主动学习！！！
+> 翻译向善。翻译工作是一个信息传递和学习共享的过程！以模块化为主，分系列专栏，打磨内容质量，形成开源教程！！通过主题文章的翻译分享，让学习者及时获得各自所需的知识与技能，从而激励学习者主动学习！！！
 
 ## 为什么要进行翻译工作（Why to do）？
 
@@ -17,6 +17,7 @@
 ## 翻译主题（Translation Topics）
 
 ### 人工智能（Artificial Intelligence）
+- [Soccer Analytics Meets Artificial Intelligence]()
 
 
 ### 机器学习（Machine Learning）
@@ -32,7 +33,9 @@
 
 
 ### 数据科学（Data Science）
+- [The 5 Vs of Big Data Hide a Trap]()
 
 
 ### 大数据（Big Data）
+- [3 Do’s And 3 Don’ts To Become Successful In Data Science]()
 
