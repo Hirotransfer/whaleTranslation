@@ -5,18 +5,15 @@
 在人工神经网络中，一个节点的激活函数定义了给定输入或一组输入节点的输出。一个标准的集成电路可以看作是一个激活函数的数字网络，它可以根据输入 "开 "或 "关"。
 
 ![](../img/1__Sigmoid函数.png)
-
-图1. Sigmoid 函数
+图1. Sigmoid函数
 
 ![](../img/2__Tanh函数.png)
-
-图2. Tanh 函数
+图2. Tanh函数
 
 Sigmoid和tanh是以前比较流行的激活函数。 然而，这些函数随着时间的推移会出现饱和，这就导致了梯度消失的问题。一个替代的、最流行的激活函数来克服这个问题，就是修正线性单元（`ReLU`）。
 
-![](../img/3__ReLU和Softplus函数数.png)
-
-图3. ReLU 和 Softplus 函数
+![](../img/3__ReLU和Softplus函数.png)
+图3. ReLU和Softplus函数
 
 上图中蓝色线条是修正线性单元（ReLU）的表示，而绿色线条是ReLU的变体，称为Softplus。ReLU的其他变体包括Leaky ReLU、ELU、SiLU等，这些变体在某些任务中被用于提高性能。
 
@@ -29,7 +26,6 @@ Sigmoid和tanh是以前比较流行的激活函数。 然而，这些函数随�
 ReLU尽管是最好的激活函数之一，但在最近并不经常使用，主要原因是它在0点处不可微分。研究者倾向于使用sigmoid和tanh等可微分函数。然而，现在发现ReLU是深度学习的最佳激活函数。
 
 ![](../img/4__ReLU函数及对应的导函数.png)
-
 图4. ReLU函数及对应的导函数
 
 ReLU激活函数在除0点外的所有点都是可微分的，对于大于0的值，我们只考虑函数的最大值。可以写成：
@@ -76,6 +72,9 @@ ReLU激活函数的主要优点是：
 # 参考资料:
 
 1. https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/
+
 2. https://en.wikipedia.org/wiki/Activation_function
+
 3. https://en.wikipedia.org/wiki/Rectifier_(neural_networks)
+
 4. https://towardsdatascience.com/activation-functions-neural-networks-1cbd9f8d91d6
