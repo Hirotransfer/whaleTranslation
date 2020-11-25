@@ -1,6 +1,6 @@
 # Version Control for ML Models
 
-![](./img/VersionControl.jpg)
+![](../img/VersionControl.jpg)
 
 ## **What is Version Control?**
 
@@ -42,7 +42,7 @@ If and when you make critical updates to your production model, those significan
 
 [MLOps](https://blog.datatron.com/growth-mlops/) is the correspondence between data scientists and the operations or production team. It’s deeply collaborative, intended to dispose of waste, automates as much as possible, and produces more extravagant, increasingly reliable bits of knowledge with machine learning. Machine learning can be a distinct advantage for a business, yet without some type of systemization, it can be considered to be just a science experiment.
 
-![](./img/DataScienceLifeCycle.png)
+![](../img/DataScienceLifeCycle.png)
 
 ## **What Problems Will MLOps Solve?**
 
