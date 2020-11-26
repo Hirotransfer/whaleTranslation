@@ -30,7 +30,7 @@
 - [6分钟内解释所有机器学习模型](https://towardsdatascience.com/all-machine-learning-models-explained-in-6-minutes-9fe30ff6776a)
 - [学习机器学习](https://www.reddit.com/r/learnmachinelearning/?f=flair_name%3A%22Tutorial%22)
 - [掌握机器学习面试技巧](https://www.confetti.ai/#)
-- [每个机器学习工程师应该知道的7项技术](https://www.blog.confetti.ai/post/7-technologies-every-machine-learning-engineer-should-know)
+- [每个机器学习工程师应该知道的7项技术](https://github.com/Hirotransfer/whaleTranslation/blob/main/Machine%20Learning/%E6%AF%8F%E4%B8%AA%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%B7%A5%E7%A8%8B%E5%B8%88%E9%83%BD%E5%BA%94%E8%AF%A5%E7%9F%A5%E9%81%93%E7%9A%847%E7%A7%8D%E6%8A%80%E6%9C%AF.md)
 
 
 ### 深度学习（Deep Learning）
