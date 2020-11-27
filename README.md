@@ -35,7 +35,7 @@
 
 ### 深度学习（Deep Learning）
 - [了解ReLU：深度学习中最受欢迎的激活函数！](https://github.com/Hirotransfer/whaleTranslation/blob/main/Deep%20Learning/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%AD%E6%9C%80%E5%8F%97%E6%AC%A2%E8%BF%8E%E7%9A%84%E6%BF%80%E6%B4%BB%E5%87%BD%E6%95%B0.md)
-- [对神经网络的初级解释](https://blog.datatron.com/a-beginner-friendly-explanation-of-neural-networks/)
+- [对神经网络的初级解释](https://github.com/Hirotransfer/whaleTranslation/blob/main/Deep%20Learning/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E5%88%9D%E7%BA%A7%E8%A7%A3%E9%87%8A.md)
 
 
 ### 强化学习（Reninforcement Learning）
