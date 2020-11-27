@@ -25,7 +25,7 @@
 
 ### 机器学习（Machine Learning）
 - [机器学习速成课程](https://github.com/Hirotransfer/whaleTranslation/blob/main/Machine%20Learning/Machine%20Learning%20Crash%20Course.md)
-- [机器学习模型的版本控制](https://github.com/Hirotransfer/whaleTranslation/blob/main/Machine%20Learning/Version%20Control%20for%20ML%20Models.md)
+- [机器学习模型的版本控制](https://github.com/Hirotransfer/whaleTranslation/blob/main/Machine%20Learning/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%9E%8B%E7%9A%84%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6.md)
 - [2021年你应该了解的所有机器学习算法](https://towardsdatascience.com/all-machine-learning-algorithms-you-should-know-in-2021-2e357dd494c7)
 - [6分钟内解释所有机器学习模型](https://towardsdatascience.com/all-machine-learning-models-explained-in-6-minutes-9fe30ff6776a)
 - [学习机器学习](https://www.reddit.com/r/learnmachinelearning/?f=flair_name%3A%22Tutorial%22)
