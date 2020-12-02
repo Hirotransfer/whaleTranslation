@@ -24,9 +24,9 @@
 ### 机器学习（Machine Learning）
 - [机器学习速成课程](https://github.com/Hirotransfer/whaleTranslation/blob/main/Machine%20Learning/Machine%20Learning%20Crash%20Course.md)
 - [机器学习模型的版本控制](https://github.com/Hirotransfer/whaleTranslation/blob/main/Machine%20Learning/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%9E%8B%E7%9A%84%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6.md)
-- [2021年你应该了解的所有机器学习算法](https://towardsdatascience.com/all-machine-learning-algorithms-you-should-know-in-2021-2e357dd494c7)
+- [2021年你应该了解的所有机器学习算法](https://github.com/Hirotransfer/whaleTranslation/blob/main/Machine%20Learning/2021%E5%B9%B4%E4%BD%A0%E5%BA%94%E8%AF%A5%E4%BA%86%E8%A7%A3%E7%9A%84%E6%89%80%E6%9C%89%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95.md)
 - [每个机器学习工程师应该知道的7项技术](https://github.com/Hirotransfer/whaleTranslation/blob/main/Machine%20Learning/%E6%AF%8F%E4%B8%AA%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%B7%A5%E7%A8%8B%E5%B8%88%E9%83%BD%E5%BA%94%E8%AF%A5%E7%9F%A5%E9%81%93%E7%9A%847%E7%A7%8D%E6%8A%80%E6%9C%AF.md)
-- [掌握机器学习面试技巧——每周更新]()（待更）
+- [机器学习面试问题每周集锦——每周更新]()（待更）
 
 
 ### 深度学习（Deep Learning）
