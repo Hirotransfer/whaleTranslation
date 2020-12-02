@@ -17,8 +17,8 @@
 ## 翻译主题（Translation Topics）
 
 ### 人工智能（Artificial Intelligence）
-- [人工智能本科4年完整的课程方案](https://www.blog.confetti.ai/post/a-complete-4-year-course-plan-for-an-artificial-intelligence-undergraduate-degree)
-- [足球分析遇见人工智能——论文]()
+- [人工智能本科4年完整的课程方案](https://www.blog.confetti.ai/post/a-complete-4-year-course-plan-for-an-artificial-intelligence-undergraduate-degree)（待译）
+- [足球分析遇见人工智能——论文]()（待译）
 
 
 ### 机器学习（Machine Learning）
@@ -26,7 +26,7 @@
 - [机器学习模型的版本控制](https://github.com/Hirotransfer/whaleTranslation/blob/main/Machine%20Learning/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%9E%8B%E7%9A%84%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6.md)
 - [2021年你应该了解的所有机器学习算法](https://towardsdatascience.com/all-machine-learning-algorithms-you-should-know-in-2021-2e357dd494c7)
 - [每个机器学习工程师应该知道的7项技术](https://github.com/Hirotransfer/whaleTranslation/blob/main/Machine%20Learning/%E6%AF%8F%E4%B8%AA%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%B7%A5%E7%A8%8B%E5%B8%88%E9%83%BD%E5%BA%94%E8%AF%A5%E7%9F%A5%E9%81%93%E7%9A%847%E7%A7%8D%E6%8A%80%E6%9C%AF.md)
-- [掌握机器学习面试技巧——每周更新]()
+- [掌握机器学习面试技巧——每周更新]()（待更）
 
 
 ### 深度学习（Deep Learning）
@@ -39,13 +39,13 @@
 
 
 ### 数据科学（Data Science）
-- [在数据科学领域获得成功的3个做和3个不做]()
-- [主成分分析的一站式服务](https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c)
-- [探索性数据分析的详细步骤指南](https://blog.datatron.com/an-extensive-step-by-step-guide-to-exploratory-data-analysis/)
-- [假设检验欧洲足球数据]()
-- [将Xs和Ys(大部分是Ys)转化为足球阵型]()
-- [50家机器学习和数据科学公司正在给行业带来变革](https://www.blog.confetti.ai/post/50-machine-learning-and-data-science-companies)
+- [在数据科学领域获得成功的3个做和3个不做]()（待译）
+- [主成分分析的一站式服务](https://towardsdatascience.com/a-one-stop-shop-for-principal-component-analysis-5582fb7e0a9c)（待译）
+- [探索性数据分析的详细步骤指南](https://blog.datatron.com/an-extensive-step-by-step-guide-to-exploratory-data-analysis/)（待译）
+- [假设检验欧洲足球数据]()（待译）
+- [将Xs和Ys(大部分是Ys)转化为足球阵型]()（待译）
+- [50家机器学习和数据科学公司正在给行业带来变革](https://www.blog.confetti.ai/post/50-machine-learning-and-data-science-companies)（待译）
 
 ### 大数据（Big Data）
-- [大数据的5个V隐藏着一个陷阱]()
+- [大数据的5个V隐藏着一个陷阱]()（待译）
 
