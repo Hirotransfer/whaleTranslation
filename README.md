@@ -17,20 +17,16 @@
 ## 翻译主题（Translation Topics）
 
 ### 人工智能（Artificial Intelligence）
-- [顶级科技公司如何在工作场所中使用机器学习和人工智能？](https://blog.datatron.com/how-top-tech-firms-use-machine-learning-and-ai-in-their-workplace/)
-- [鉴别人工智能的真实案例](https://blog.datatron.com/ai-discrimination/)
-- [足球分析遇见人工智能]()
 - [人工智能本科4年完整的课程方案](https://www.blog.confetti.ai/post/a-complete-4-year-course-plan-for-an-artificial-intelligence-undergraduate-degree)
+- [足球分析遇见人工智能——论文]()
 
 
 ### 机器学习（Machine Learning）
 - [机器学习速成课程](https://github.com/Hirotransfer/whaleTranslation/blob/main/Machine%20Learning/Machine%20Learning%20Crash%20Course.md)
 - [机器学习模型的版本控制](https://github.com/Hirotransfer/whaleTranslation/blob/main/Machine%20Learning/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%A8%A1%E5%9E%8B%E7%9A%84%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6.md)
 - [2021年你应该了解的所有机器学习算法](https://towardsdatascience.com/all-machine-learning-algorithms-you-should-know-in-2021-2e357dd494c7)
-- [6分钟内解释所有机器学习模型](https://towardsdatascience.com/all-machine-learning-models-explained-in-6-minutes-9fe30ff6776a)
-- [学习机器学习](https://www.reddit.com/r/learnmachinelearning/?f=flair_name%3A%22Tutorial%22)
-- [掌握机器学习面试技巧](https://www.confetti.ai/#)
 - [每个机器学习工程师应该知道的7项技术](https://github.com/Hirotransfer/whaleTranslation/blob/main/Machine%20Learning/%E6%AF%8F%E4%B8%AA%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%B7%A5%E7%A8%8B%E5%B8%88%E9%83%BD%E5%BA%94%E8%AF%A5%E7%9F%A5%E9%81%93%E7%9A%847%E7%A7%8D%E6%8A%80%E6%9C%AF.md)
+- [掌握机器学习面试技巧——每周更新]()
 
 
 ### 深度学习（Deep Learning）
